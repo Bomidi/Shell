@@ -20,5 +20,6 @@ lastname=$name.nath
 echo $lastname
 
 
-
-
+echo "Enter your name:"
+read name
+echo "enetered your name is : $name"
